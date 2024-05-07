@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.login {
+  background-image: url('./../public/assets/images/login.jpg');
+  background-size: cover;
+}
+
+.img-table {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+}
